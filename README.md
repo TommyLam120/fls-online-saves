@@ -11,7 +11,7 @@ Adding money to GTA Online and local saves allowing you to bypass the ban. More 
 >
 > [version.dll](FSL/version.dll) is outdated and may not work with newer game versions.
 
-Copy [WINMM.dll](https://github.com/isamo09/fls-online-saves/raw/main/FSL/WINMM.dll) to the root folder of the game (where GTA5.exe is located).
+Copy [WINMM.dll](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/WINMM.dll) to the root folder of the game (where GTA5.exe is located).
 
 ## Money Cheats
 
@@ -28,10 +28,9 @@ Press `~` in GTA Online session to open console, then enter a cheat code:
 
 ## Downloads
 
-- [WINMM.dll](https://github.com/isamo09/fls-online-saves/raw/main/FSL/WINMM.dll) - For latest GTA versions (Recommended)
-- [version.dll](https://github.com/isamo09/fls-online-saves/raw/main/FSL/version.dll) - Old version
-- [Save Manager](https://github.com/isamo09/fls-online-saves/releases/latest/download/main.exe) - Cloud save manager
-- [Clean Save](https://github.com/isamo09/fls-online-saves/raw/main/FSL/clear_saves.zip) - Extract to `%AppData%\FSL` if blocked
+- [WINMM.dll](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/WINMM.dll) - For latest GTA versions (Recommended)
+- [Save Manager](https://github.com/TommyLam120/fls-online-saves/releases/latest/download/main.exe) - Cloud save manager
+- [Clean Save](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/clear_saves.zip) - Extract to `%AppData%\FSL` if blocked
 
 ## How It Works
 
