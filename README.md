@@ -2,7 +2,7 @@
 
 Client and server for storing local FSL saves for GTA Online.
 
-Adding money to GTA Online and local saves allowing you to bypass the ban. More details: http://fsl.pythonanywhere.com
+Adding money to GTA Online and local saves allowing you to bypass the ban. More details: 
 
 ## Installation
 
