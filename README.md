@@ -28,7 +28,7 @@ Press `~` in GTA Online session to open console, then enter a cheat code:
 
 ## Downloads
 
-- [WINMM.dll](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/WINMM.dll) - For latest GTA versions (Recommended)
+- [WINMM.dll](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/WINMM.dll) - For latest GTA V Enhanced and GTA V Legacy 1.72 versions (Recommended)
 - [Save Manager](https://github.com/TommyLam120/fls-online-saves/releases/latest/download/main.exe) - Cloud save manager
 - [Clean Save](https://github.com/TommyLam120/fls-online-saves/raw/main/FSL/clear_saves.zip) - Extract to `%AppData%\FSL` if blocked
 
