@@ -2,7 +2,7 @@
   "title": "FSL Exploit",
   "intro": "FSL for GTA Online - redirects saves from Rockstar servers to local files, allowing you to create local saves for GTA Online.",
   "warning_title": "Important: For latest GTA versions",
-  "warning_text": "For <strong>GTA V Enhanced</strong> and <strong>GTA V Legacy</strong> (any latest version), use <strong>WINMM.dll</strong> instead of version.dll:",
+  "warning_text": "For <strong>GTA V Enhanced</strong> and <strong>GTA V Legacy</strong> (The latest new 1.72 version), use <strong>WINMM.dll</strong> instead of version.dll:",
   "warning_hint": "Place the file in the root folder of the game (where GTA5.exe is located).",
   "download_winmm": "Download WINMM.dll",
   "downloads": "Downloads",
