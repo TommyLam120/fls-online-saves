@@ -4,7 +4,7 @@
   "warning_title": "Важно: Для последних версий GTA",
   "warning_text": "Для <strong>GTA V Enhanced</strong> и <strong>GTA V Legacy</strong> (любая последняя версия) используйте <strong>WINMM.dll</strong> вместо version.dll:",
   "warning_hint": "Поместите файл в корневую папку игры (где находится GTA5.exe).",
-  "download_winmm": "Скачать WINMM.dll",
+  "download_winmm": "Скачать WINMM.dll (Последняя версия 1.72)",
   "downloads": "Загрузки",
   "downloads_winmm": "WINMM.dll (Последняя версия 1.72)",
   "downloads_version": "version.dll (Старая)",
