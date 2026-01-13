@@ -5,7 +5,7 @@ from datetime import datetime
 import zipfile
 import webbrowser
 
-SERVER_URL = "https://fsl.pythonanywhere.com"
+SERVER_URL = "https://tommylam120.pythonanywhere.com"
 CONFIG_FILE = "client_config.json"
 user_name = os.getlogin()
 FSL_dir = f"C:\\Users\\{user_name}\\AppData\\Roaming\\FSL"
@@ -368,3 +368,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
